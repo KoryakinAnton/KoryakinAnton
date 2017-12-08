@@ -1,1 +1,2 @@
-# KoryakinAnton
+# stardk.github.io
+JavaScript Course
